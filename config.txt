@@ -1,0 +1,6 @@
+token= NTMxMzYzOTM2NDAzMTkzODU3.Dxc-Wg.7ovssv8lGvSNL0qIfAOQIG7f0P4
+owner= 506939533686734858
+prefix= 1
+game= CN,CLAN
+stayinchannel=true 
+songinstatus=false 
